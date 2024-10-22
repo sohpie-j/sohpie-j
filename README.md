@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohpie-j, a software engineer passionate about front-end development with user experience design and back-end development.
-- 👀 I’m interested in Web development, machine learning, open-source projects, and UX/UI design.
+- 👀 I’m interested in Web development, machine learning, open-source projects, and DataBase.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Open-source projects related to web development, design systems, or React.js.
 - 📫 How to reach me ...Feel free to reach out via LinkedIn or email me at youremail@example.com."
